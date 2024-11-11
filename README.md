@@ -13,6 +13,7 @@ The code may be messy, but it gets the job done. I’ve also included the necess
 ## Extra
 Good job Sunset Developer Matthew, Imagine pasting code that you didn't know was useless It's how i found out you got passed my code. Clap clap clap.
 
+Added a built module for those noobie people. - Don't use this on xbGuard, they actually handle it the same way but differently. You're much more safer on xbGuard.
 ---
 
 ### Hooks & Addresses
