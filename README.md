@@ -29,7 +29,7 @@ int SEH_ReadCharFromStringHook(const char** textPtr, unsigned int* letter, const
 }
 
 bool LUI_CoD_ReadCharFromStringHook(const char** textPtr, unsigned int* letter, const Vector4* originalColor, color_t* color, char** buttonName, Material** iconMaterial) {
-		if (t6::functions::doesTextContainInvalidMaterial(*textPtr))
+		if (doesTextContainInvalidMaterial(*textPtr))
 		{
 			*textPtr = "Blocked this nerds crash";
 		}
